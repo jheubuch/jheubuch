@@ -1,8 +1,8 @@
 # Jonas Heubuch
 ## Short Overview
-🙋🏻‍♂️  22 years old (he/him) 🏳️‍🌈  
+🙋🏻‍♂️  23 years old (he/him) 🏳️‍🌈  
 🏡  Living in Bavaria, Germany  
-👨🏻‍🎓  Studying information technologies at [Kempten University of Applied Sciences](https://hs-kempten.de/en)  
+👨🏻‍🎓  Studying information technologies in Master's degree at [Kempten University of Applied Sciences](https://hs-kempten.de/en)  
 👨🏻‍💻  Developing software at [Christ Electronic Systems GmbH](https://christ-es.com)  
 🚆  Passionate train traveller and doing researches on the trains
 
