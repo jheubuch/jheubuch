@@ -1,6 +1,6 @@
 # Jonas Heubuch
 ## Short Overview
-🙋🏻‍♂️  24 years old (he/him) 🏳️‍🌈  
+🙋🏻‍♂️  2´5 years old (he/him) 🏳️‍🌈  
 🏡  Living in Bavaria, Germany  
 👨🏻‍🎓  Graduated in computer science Master's degree at [Kempten University of Applied Sciences](https://hs-kempten.de/en)  
 👨🏻‍💻  Developing software at [Christ Electronic Systems GmbH](https://christ-es.com)  
